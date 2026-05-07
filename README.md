@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0F172A&height=320&section=header&text=Sarthak%20Nagave&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20Developer%20%7C%20Backend%20Systems&descAlignY=64&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Sarthak%20Nagave&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=42&color=0:000428,100:004e92&stroke=38BDF8&strokeWidth=2&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20Developer%20%7C%20Backend%20Systems&descAlignY=64&descSize=22"/>
 
 </div>
 
@@ -117,8 +117,6 @@ Focused on building performant, production-ready, and scalable AI systems.
 <img src="https://img.shields.io/badge/Backend%20Engineering-1E293B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20Deployment-020617?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Intelligent%20Automation-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scalable%20Systems-020617?style=for-the-badge"/>
 
 </div>
 
@@ -172,27 +170,13 @@ Deep learning and reinforcement learning framework for AI-driven molecular gener
 
 ---
 
-## Intelligent AI Backend Systems
-
-Scalable backend architectures for AI applications using FastAPI, Docker, PostgreSQL, and cloud deployment workflows.
-
----
-
 # GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sarthak-Nagave&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarthak-Nagave&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak-Nagave&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Nagave&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Nagave&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -277,7 +261,7 @@ Scalable backend architectures for AI applications using FastAPI, Docker, Postgr
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0F172A&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer"/>
 
 </div>
 
