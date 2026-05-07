@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,100:0F172A&text=Sarthak%20Nagave&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20Developer%20%7C%20Backend%20Systems&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=320&color=0:020617,100:0F172A&text=Sarthak%20Nagave&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20Developer%20%7C%20Backend%20Systems&descAlignY=62&descSize=20"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=1200&lines=AI%2FML+Engineer;Generative+AI+Developer;LLM+and+RAG+Systems;FastAPI+%7C+PyTorch+%7C+TensorFlow;Backend+Systems+Engineer;Building+Production-Ready+AI+Applications;Deep+Learning+and+Intelligent+Automation;Scalable+AI+Infrastructure+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=1200&height=70&lines=AI%2FML+Engineer;Generative+AI+Developer;LLM+and+RAG+Systems;FastAPI+%7C+PyTorch+%7C+TensorFlow;Backend+Systems+Engineer;Building+Production-Ready+AI+Applications;Deep+Learning+and+Intelligent+Automation;Scalable+AI+Infrastructure+Developer" />
 
 </div>
 
@@ -72,6 +72,12 @@ Worked on production-grade AI systems involving enterprise automation, AI-powere
 Focused on building performant, production-ready, and scalable AI systems.
 
 ---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750547-38d6c6c4-7f08-4e74-a0df-7f2d3d8b8f65.gif" width="100%"/>
+
+</div>
 
 # Experience
 
@@ -141,6 +147,12 @@ Focused on building performant, production-ready, and scalable AI systems.
 
 ---
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750548-1b7db1d5-8e95-42b5-b2a3-4d7fd7cb9b9d.gif" width="100%"/>
+
+</div>
+
 # Featured Projects
 
 ## GramTeach.AI
@@ -182,9 +194,9 @@ Scalable backend architectures for AI applications using FastAPI, Docker, Postgr
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sarthak-Nagave&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sarthak-Nagave&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak-Nagave&theme=github-dark-blue&hide_border=true&background=00000000"/>
+<img height="180" src="https://streak-stats.demolab.com?user=Sarthak-Nagave&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -192,7 +204,7 @@ Scalable backend architectures for AI applications using FastAPI, Docker, Postgr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Nagave&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Nagave&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -202,7 +214,7 @@ Scalable backend architectures for AI applications using FastAPI, Docker, Postgr
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sarthak-Nagave&theme=algolia&row=1&column=7&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sarthak-Nagave&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </div>
 
