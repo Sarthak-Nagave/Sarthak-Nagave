@@ -54,7 +54,7 @@
 
 ---
 
-# Profile
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Profile
 
 AI/ML Engineer with practical experience designing and deploying scalable Machine Learning and Generative AI systems for real-world applications.
 
@@ -73,7 +73,7 @@ Focused on building performant, production-ready, and scalable AI systems.
 
 ---
 
-# Experience
+# <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"/> Experience
 
 ## AI/ML Engineer Intern — Thynk Tech India Pvt Ltd
 
@@ -97,7 +97,7 @@ Focused on building performant, production-ready, and scalable AI systems.
 
 ---
 
-# Technology Stack
+# <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="35"/> Technology Stack
 
 <div align="center">
 
@@ -122,7 +122,7 @@ Focused on building performant, production-ready, and scalable AI systems.
 
 ---
 
-# Engineering Focus
+# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"/> Engineering Focus
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
@@ -139,7 +139,7 @@ Focused on building performant, production-ready, and scalable AI systems.
 
 ---
 
-# Featured Projects
+# <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"/> Featured Projects
 
 ## GramTeach.AI
 
@@ -170,7 +170,7 @@ Deep learning and reinforcement learning framework for AI-driven molecular gener
 
 ---
 
-# GitHub Analytics
+# <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="35"/> GitHub Analytics
 
 <div align="center">
 
@@ -182,7 +182,7 @@ Deep learning and reinforcement learning framework for AI-driven molecular gener
 
 ---
 
-# Achievements
+# <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="35"/> Achievements
 
 <div align="center">
 
@@ -192,7 +192,7 @@ Deep learning and reinforcement learning framework for AI-driven molecular gener
 
 ---
 
-# Contribution Activity
+# <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="35"/> Contribution Activity
 
 <div align="center">
 
@@ -210,7 +210,7 @@ Deep learning and reinforcement learning framework for AI-driven molecular gener
 
 ---
 
-# Certifications
+# <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="35"/> Certifications
 
 - AWS — Generative AI with Large Language Models
 - Machine Learning & Deep Learning
@@ -222,7 +222,7 @@ Deep learning and reinforcement learning framework for AI-driven molecular gener
 
 ---
 
-# Current Interests
+# <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"/> Current Interests
 
 - Generative AI Systems
 - AI Agents & Automation
@@ -235,7 +235,7 @@ Deep learning and reinforcement learning framework for AI-driven molecular gener
 
 ---
 
-# Connect
+# <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="35"/> Connect
 
 <div align="center">
 
