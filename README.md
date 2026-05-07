@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,100:0F172A&text=Sarthak%20Nagave&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Generative%20AI%20Developer%20%E2%80%A2%20Backend%20Systems&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,100:0F172A&text=Sarthak%20Nagave&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Generative%20AI%20Developer%20%E2%80%A2%20Backend%20Systems%20Engineer&descAlignY=58&descSize=20"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212897597-fd0f5b0f-3d5f-4f89-bc8d-6f57f6d5d5eb.gif" width="100%"/>
 
 </div>
 
@@ -8,7 +14,15 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer;Generative+AI+Developer;LLM+%26+RAG+Systems;FastAPI+%7C+PyTorch+%7C+TensorFlow;Building+Production-Ready+AI+Applications;Backend+Engineering+%26+Intelligent+Automation)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVxczY2Yjl4YjVtN3J6M3g4eGF6NG5hbnYzN3B5NmN4bW9vZ3N2dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=1200&lines=AI%2FML+Engineer;Generative+AI+Developer;LLM+%26+RAG+Systems;FastAPI+%7C+PyTorch+%7C+TensorFlow;Backend+Systems+Engineer;Building+Production-Ready+AI+Applications;Deep+Learning+%26+Intelligent+Automation;Scalable+AI+Infrastructure+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,49 +48,74 @@
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sarthak-Nagave&style=for-the-badge&color=0ea5e9"/>
+
+<img src="https://img.shields.io/github/followers/Sarthak-Nagave?style=for-the-badge&color=111827"/>
+
+<img src="https://img.shields.io/github/stars/Sarthak-Nagave?style=for-the-badge&color=1e293b"/>
+
+</div>
+
 ---
 
-# Profile
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Profile
 
-AI/ML Engineer with practical experience building scalable Machine Learning and Generative AI systems for real-world applications.
+AI/ML Engineer with practical experience designing and deploying scalable Machine Learning and Generative AI systems for real-world applications.
 
-Experienced in designing and deploying intelligent systems using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Deep Learning, FastAPI, and modern backend architectures.
+Experienced in:
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Deep Learning Architectures
+- FastAPI Backend Systems
+- Predictive Analytics
+- Intelligent Automation
+- AI Infrastructure & Deployment
 
-Worked on production-grade AI applications involving intelligent automation, predictive analytics, AI-powered educational systems, and enterprise-focused backend deployment.
+Worked on production-grade AI systems involving enterprise automation, AI-powered educational platforms, backend APIs, forecasting systems, and scalable intelligent applications.
 
-Focused on building performant, scalable, and production-ready intelligent systems.
+Focused on building performant, production-ready, and scalable AI systems.
 
 ---
 
-# Experience
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750547-38d6c6c4-7f08-4e74-a0df-7f2d3d8b8f65.gif" width="100%"/>
+
+</div>
+
+# <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"/> Experience
 
 ## AI/ML Engineer Intern — Thynk Tech India Pvt Ltd
 
-- Contributed to production-level AI systems and intelligent automation platforms
-- Developed Generative AI and RAG-based pipelines
-- Built scalable REST APIs using FastAPI
-- Worked on predictive analytics and forecasting systems
-- Optimized ML models using feature engineering and tuning techniques
-- Processed and analyzed datasets containing 10k+ records
-- Improved model performance using RMSE and R² optimization strategies
+- Built production-level AI and automation systems
+- Developed RAG and LLM-based pipelines
+- Designed scalable FastAPI backend architectures
+- Worked on predictive analytics & forecasting systems
+- Optimized ML models using feature engineering
+- Processed datasets containing 10k+ records
+- Improved model performance using RMSE and R² optimization
 
 ---
 
 ## Data Science & AI/ML Intern — SkillEcted
 
-- Built machine learning models for classification and regression tasks
-- Performed large-scale EDA and data preprocessing workflows
+- Built ML models for classification and regression
 - Developed end-to-end ML pipelines
-- Improved prediction accuracy through feature engineering and tuning
-- Created dashboards and analytical visualizations for business insights
+- Performed EDA and preprocessing workflows
+- Improved model accuracy through optimization
+- Created analytical dashboards and visualizations
 
 ---
 
-# Technology Stack
+# <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="30"/> Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,postgresql,mongodb,docker,aws,linux,git,github,react,nodejs,nextjs,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,fastapi,flask,django,pytorch,tensorflow,react,nextjs,nodejs,express,mongodb,postgresql,mysql,redis,docker,kubernetes,aws,linux,git,github,vscode,postman,figma"/>
 
 </div>
 
@@ -85,66 +124,87 @@ Focused on building performant, scalable, and production-ready intelligent syste
 <div align="center">
 
 <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG%20Pipelines-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-1E293B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend%20Systems-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Infrastructure-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20Engineering-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Deployment-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Intelligent%20Automation-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scalable%20Systems-020617?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# Engineering Focus
+# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"/> Engineering Focus
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - Generative AI Systems
+- AI Agents & Automation
 - Deep Learning Architectures
 - Predictive Analytics
 - FastAPI Backend Engineering
-- AI Deployment & APIs
-- Intelligent Automation Systems
-- Production AI Infrastructure
+- AI APIs & Deployment
+- Backend System Design
 - ML Optimization Pipelines
+- Production AI Infrastructure
+- Scalable Intelligent Systems
 
 ---
 
-# Featured Projects
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750548-1b7db1d5-8e95-42b5-b2a3-4d7fd7cb9b9d.gif" width="100%"/>
+
+</div>
+
+# <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30"/> Featured Projects
 
 ## GramTeach.AI
 
-AI-powered multilingual educational platform built using FastAPI, PostgreSQL, and Generative AI technologies.
+Production-ready multilingual AI-powered educational platform built using FastAPI, PostgreSQL, and Generative AI technologies.
 
 ### Core Features
+
 - AI-generated educational content
 - Multi-language support
 - JWT Authentication
 - Role-based access system
-- Real-time AI content generation
-- Production-ready backend architecture
+- Real-time AI generation
+- Scalable backend architecture
 
 ---
 
 ## Generative AI for Drug Molecule Discovery
 
-Deep learning and reinforcement learning system for AI-assisted molecule generation and molecular property prediction.
+Deep learning and reinforcement learning framework for AI-driven molecular generation and prediction systems.
 
 ### Core Features
-- AI-driven molecular generation
+
+- AI-based molecular generation
 - Reinforcement Learning optimization
 - Stability & solubility prediction
 - Drug discovery workflow automation
-- Deep learning-based prediction systems
+- Deep learning prediction systems
 
 ---
 
-# GitHub Analytics
+## Intelligent AI Backend Systems
+
+Scalable backend architectures for AI applications using FastAPI, Docker, PostgreSQL, and cloud deployment workflows.
+
+---
+
+# <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"/> GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sarthak-Nagave&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sarthak-Nagave&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak-Nagave&theme=github-dark-blue&hide_border=true&background=00000000"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak-Nagave&theme=github-dark-blue&hide_border=true&background=00000000"/>
 
 </div>
 
@@ -158,7 +218,17 @@ Deep learning and reinforcement learning system for AI-assisted molecule generat
 
 ---
 
-# Contribution Activity
+# <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30"/> Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sarthak-Nagave&theme=algolia&row=1&column=7&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="30"/> Contribution Activity
 
 <div align="center">
 
@@ -166,9 +236,17 @@ Deep learning and reinforcement learning system for AI-assisted molecule generat
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
 ---
 
-# Certifications
+# <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="30"/> Certifications
 
 - AWS — Generative AI with Large Language Models
 - Machine Learning & Deep Learning
@@ -180,20 +258,20 @@ Deep learning and reinforcement learning system for AI-assisted molecule generat
 
 ---
 
-# Current Interests
+# <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> Current Interests
 
 - Generative AI Systems
 - AI Agents & Automation
-- RAG Architectures
-- AI Infrastructure
-- Backend System Design
-- Deep Learning Optimization
-- Production AI Engineering
+- LLM Architectures
+- RAG Systems
+- Backend Infrastructure
 - Scalable AI APIs
+- AI Product Engineering
+- Production AI Deployment
 
 ---
 
-# Connect
+# <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="30"/> Connect
 
 <div align="center">
 
@@ -219,14 +297,12 @@ Deep learning and reinforcement learning system for AI-assisted molecule generat
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Sarthak-Nagave&style=for-the-badge&color=0e75b6"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0F172A&height=120&section=footer"/>
 
 </div>
 
----
-
 <div align="center">
 
-### Building production-ready intelligent systems with AI.
+### Engineering intelligent systems for real-world impact.
 
 </div>
