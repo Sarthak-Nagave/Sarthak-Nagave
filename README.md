@@ -174,9 +174,9 @@ Deep learning and reinforcement learning framework for AI-driven molecular gener
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarthak-Nagave&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sarthak-Nagave&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Nagave&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sarthak-Nagave&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -269,4 +269,4 @@ Deep learning and reinforcement learning framework for AI-driven molecular gener
 
 ### Engineering intelligent systems for real-world impact.
 
-</div>
+</div>s
