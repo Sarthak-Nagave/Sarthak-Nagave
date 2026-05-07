@@ -1,20 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,100:0F172A&text=Sarthak%20Nagave&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Generative%20AI%20Developer%20%E2%80%A2%20Backend%20Systems%20Engineer&descAlignY=58&descSize=20"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212897597-fd0f5b0f-3d5f-4f89-bc8d-6f57f6d5d5eb.gif" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVxczY2Yjl4YjVtN3J6M3g4eGF6NG5hbnYzN3B5NmN4bW9vZ3N2dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,100:0F172A&text=Sarthak%20Nagave&fontSize=58&fontColor=ffffff&stroke=38BDF8&strokeWidth=1.2&animation=fadeIn&fontAlignY=42&desc=AI%2FML%20Engineer%20%E2%80%A2%20Generative%20AI%20Developer%20%E2%80%A2%20LLM%20%26%20Backend%20Systems&descAlignY=62&descSize=20"/>
 
 </div>
 
@@ -62,7 +48,7 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Profile
+# Profile
 
 AI/ML Engineer with practical experience designing and deploying scalable Machine Learning and Generative AI systems for real-world applications.
 
@@ -77,17 +63,11 @@ Experienced in:
 
 Worked on production-grade AI systems involving enterprise automation, AI-powered educational platforms, backend APIs, forecasting systems, and scalable intelligent applications.
 
-Focused on building performant, production-ready, and scalable AI systems.
+Focused on building performant, scalable, and production-ready AI systems.
 
 ---
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212750547-38d6c6c4-7f08-4e74-a0df-7f2d3d8b8f65.gif" width="100%"/>
-
-</div>
-
-# <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"/> Experience
+# Experience
 
 ## AI/ML Engineer Intern — Thynk Tech India Pvt Ltd
 
@@ -111,7 +91,7 @@ Focused on building performant, production-ready, and scalable AI systems.
 
 ---
 
-# <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="30"/> Technology Stack
+# Technology Stack
 
 <div align="center">
 
@@ -138,7 +118,7 @@ Focused on building performant, production-ready, and scalable AI systems.
 
 ---
 
-# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"/> Engineering Focus
+# Engineering Focus
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
@@ -155,13 +135,7 @@ Focused on building performant, production-ready, and scalable AI systems.
 
 ---
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212750548-1b7db1d5-8e95-42b5-b2a3-4d7fd7cb9b9d.gif" width="100%"/>
-
-</div>
-
-# <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30"/> Featured Projects
+# Featured Projects
 
 ## GramTeach.AI
 
@@ -198,7 +172,7 @@ Scalable backend architectures for AI applications using FastAPI, Docker, Postgr
 
 ---
 
-# <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"/> GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -218,7 +192,7 @@ Scalable backend architectures for AI applications using FastAPI, Docker, Postgr
 
 ---
 
-# <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30"/> Achievements
+# Achievements
 
 <div align="center">
 
@@ -228,7 +202,7 @@ Scalable backend architectures for AI applications using FastAPI, Docker, Postgr
 
 ---
 
-# <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="30"/> Contribution Activity
+# Contribution Activity
 
 <div align="center">
 
@@ -246,7 +220,7 @@ Scalable backend architectures for AI applications using FastAPI, Docker, Postgr
 
 ---
 
-# <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="30"/> Certifications
+# Certifications
 
 - AWS — Generative AI with Large Language Models
 - Machine Learning & Deep Learning
@@ -258,7 +232,7 @@ Scalable backend architectures for AI applications using FastAPI, Docker, Postgr
 
 ---
 
-# <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> Current Interests
+# Current Interests
 
 - Generative AI Systems
 - AI Agents & Automation
@@ -271,7 +245,7 @@ Scalable backend architectures for AI applications using FastAPI, Docker, Postgr
 
 ---
 
-# <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="30"/> Connect
+# Connect
 
 <div align="center">
 
