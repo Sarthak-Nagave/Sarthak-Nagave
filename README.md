@@ -174,9 +174,9 @@ Deep learning and reinforcement learning framework for AI-driven molecular gener
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sarthak-Nagave&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sarthak-Nagave&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sarthak-Nagave&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sarthak-Nagave&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
