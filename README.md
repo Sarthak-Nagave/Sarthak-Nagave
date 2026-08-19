@@ -75,7 +75,18 @@ Focused on building performant, production-ready, and scalable AI systems.
 
 # <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"/> Experience
 
-## AI/ML Engineer Intern — Thynk Tech India Pvt Ltd
+## Design Engineer - Selec Controls Pvt Ltd
+
+- Developing Python-based software tools and automation scripts for R&D workflows.
+- Integrating offline LLM inference into engineering tools for AI-powered fault analysis and parameter recommendations.
+- Developed RAG and LLM-based pipelines
+- Designed scalable FastAPI backend architectures
+- Optimized ML models using feature engineering
+- Exploring Agentic AI and LangGraph-based orchestration to build intelligent automation utilities for industrial product development and R&D
+
+---
+
+## Associate Software Engineer — Thynk Tech India Pvt Ltd
 
 - Built production-level AI and automation systems
 - Developed RAG and LLM-based pipelines
@@ -87,7 +98,7 @@ Focused on building performant, production-ready, and scalable AI systems.
 
 ---
 
-## Data Science & AI/ML Intern — SkillEcted
+## Data Scientist — SkillEcted
 
 - Built ML models for classification and regression
 - Developed end-to-end ML pipelines
