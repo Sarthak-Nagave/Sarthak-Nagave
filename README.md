@@ -1,43 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Sarthak%20Nagave&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&color=0:020617,45:0F172A,75:0369A1,100:0284C7&stroke=38BDF8&strokeWidth=2&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20Agentic%20AI%20%7C%20LLMs%20%7C%20RAG%20%7C%20MLOps&descAlignY=61&descSize=18" width="100%" alt="Sarthak Nagave"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Sarthak%20Nagave&fontSize=62&fontColor=FFFFFF&fontAlignY=37&animation=fadeIn&color=0:020617,45:0F172A,75:0369A1,100:38BDF8&desc=AI%2FML%20Engineer%20%7C%20GenAI%20%7C%20Agentic%20AI%20%7C%20LLM%20%7C%20RAG%20%7C%20MLOps&descAlignY=59&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&height=45&lines=AI%2FML+Engineer;Generative+AI+Developer;Agentic+AI+%7C+LLM+%7C+RAG;MLOps+%7C+AI+Deployment;Building+Production-Ready+AI+Systems" alt="Professional typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=650&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=%3E+Building+Intelligent+Systems...;%3E+Engineering+LLM+%2B+RAG+Applications...;%3E+Developing+Agentic+AI+Workflows...;%3E+Training+%26+Deploying+ML+Models...;%3E+Turning+Ideas+Into+Production+AI..." alt="Typing animation"/>
 
-<br/>
-
-<a href="https://github.com/Sarthak-Nagave"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/sarthak-nagave-742110324/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a> <a href="mailto:sarthaknagave@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Sarthak-Nagave&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/Sarthak-Nagave"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/></a> <a href="https://www.linkedin.com/in/sarthak-nagave-742110324/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:sarthaknagave@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=Sarthak-Nagave&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td width="55%" valign="middle">
 
-## <img src="https://cdn.simpleicons.org/openai/38BDF8" width="24"/> AI/ML Engineer
+## `> whoami`
 
-**Building intelligent systems across Machine Learning, Generative AI, Agentic AI, LLMs, RAG and MLOps.**
+### Sarthak Nagave
 
-</div>
+**AI/ML Engineer building production-oriented intelligent systems.**
 
-I focus on developing **production-oriented AI applications** rather than isolated models — combining machine learning, LLM engineering, retrieval systems, agentic workflows, backend APIs and deployment infrastructure.
+I engineer applications across **Machine Learning, Generative AI, Agentic AI, LLMs, RAG, MLOps and Backend Systems**.
 
-```text
-Problem → Data → Intelligence → API → MLOps → Production
+My focus goes beyond training models — I enjoy designing the **entire system around intelligence**.
+
+```yaml
+role: AI/ML Engineer
+
+building:
+  - Generative AI Systems
+  - Agentic AI Workflows
+  - LLM Applications
+  - RAG Pipelines
+  - ML Systems
+  - Backend APIs
+
+learning:
+  - Advanced Agentic AI
+  - Production MLOps
+  - Scalable AI Architecture
+
+status: building...
 ```
 
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img width="95%" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="Developer coding"/>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-020617?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Generative%20AI-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge&logo=langchain&logoColor=38BDF8" alt="Agentic AI"/>
-<img src="https://img.shields.io/badge/LLMs-1E293B?style=for-the-badge&logo=huggingface&logoColor=38BDF8" alt="LLMs"/>
-<img src="https://img.shields.io/badge/RAG-334155?style=for-the-badge&logo=databricks&logoColor=38BDF8" alt="RAG"/>
-<img src="https://img.shields.io/badge/MLOps-475569?style=for-the-badge&logo=mlflow&logoColor=38BDF8" alt="MLOps"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-020617?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/AGENTIC%20AI-111827?style=for-the-badge&logo=langchain&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/LLM%20%2B%20RAG-1E293B?style=for-the-badge&logo=huggingface&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/MLOPS-334155?style=for-the-badge&logo=mlflow&logoColor=38BDF8"/>
 
 </div>
 
@@ -45,133 +66,150 @@ Problem → Data → Intelligence → API → MLOps → Production
 
 <div align="center">
 
-## <img src="https://cdn.simpleicons.org/pytorch/38BDF8" width="24"/> Core Expertise
+## `// ENGINEERING_DOMAINS`
 
-| Domain            | Focus                                                                       |
-| :---------------- | :-------------------------------------------------------------------------- |
-| **AI / ML**       | Machine Learning · Deep Learning · Feature Engineering · Model Optimization |
-| **Generative AI** | LLM Applications · Prompt Engineering · AI APIs · Local LLMs                |
-| **RAG**           | Retrieval Pipelines · Context Retrieval · Knowledge-Based Generation        |
-| **Agentic AI**    | AI Agents · Tool Calling · Workflow Automation · Agent Orchestration        |
-| **MLOps**         | Model Deployment · Packaging · Docker · AI Infrastructure                   |
-| **Backend**       | Python · FastAPI · REST APIs · Scalable Services                            |
-| **Cloud**         | AWS · EC2 · S3 · Cloud AI Applications                                      |
-| **Automation**    | Intelligent Automation · Engineering Workflows · AI-assisted Systems        |
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=1800&pause=500&color=94A3B8&center=true&vCenter=true&width=750&height=30&lines=Machine+Learning+%7C+Generative+AI+%7C+Agentic+AI;LLM+Engineering+%7C+RAG+%7C+Backend;MLOps+%7C+Cloud+%7C+Intelligent+Automation"/>
 
 </div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AI / Machine Learning
+
+`Machine Learning` `Deep Learning`
+`Regression` `Classification`
+`Feature Engineering` `Model Optimization`
+`Predictive Analytics` `Model Evaluation`
+
+</td>
+<td width="50%" valign="top">
+
+### Generative AI
+
+`Large Language Models` `RAG`
+`Prompt Engineering` `Local LLMs`
+`Context Retrieval` `AI APIs`
+`Knowledge-Augmented Generation`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Agentic AI
+
+`AI Agents` `Tool Calling`
+`Agent Orchestration` `Reasoning`
+`Workflow Automation` `Actions`
+`Intelligent Engineering Utilities`
+
+</td>
+<td width="50%" valign="top">
+
+### Production Engineering
+
+`FastAPI` `REST APIs`
+`Docker` `AWS` `MLOps`
+`Backend Systems` `Deployment`
+`Production AI Infrastructure`
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## <img src="https://cdn.simpleicons.org/python/38BDF8" width="24"/> Professional Experience
+## `// EXPERIENCE`
 
 </div>
 
 ### Design Engineer — Selec Controls Pvt. Ltd.
 
-<div align="center">
+`AI` `Python` `LLM` `RAG` `Agentic AI` `FastAPI` `Automation`
 
-<img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/LLM-0F172A?style=flat-square&logo=openai&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/RAG-111827?style=flat-square&logo=databricks&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-1E293B?style=flat-square&logo=langchain&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/FastAPI-334155?style=flat-square&logo=fastapi&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Automation-475569?style=flat-square&logo=python&logoColor=38BDF8"/>
-
-</div>
-
-* Developing Python-based engineering software and automation utilities for R&D workflows.
+* Developing **Python-based engineering software** and automation utilities for R&D.
 * Integrating **offline LLM inference** into engineering applications.
-* Building **LLM and RAG-based pipelines** for AI-assisted engineering workflows.
-* Working with **Agentic AI concepts** for intelligent engineering automation.
-* Developing FastAPI-based backend services and APIs.
-* Integrating AI capabilities with engineering and automation workflows.
-* Working across Python, APIs, PLC-based workflows and industrial automation.
-* Exploring AI-assisted fault analysis and parameter recommendation workflows.
+* Building **LLM + RAG pipelines** for AI-assisted engineering workflows.
+* Working on **Agentic AI-based intelligent automation** concepts.
+* Developing **FastAPI backend services** and engineering APIs.
+* Integrating AI software with **PLC and industrial automation workflows**.
+* Exploring AI-assisted **fault analysis and parameter recommendation**.
+* Building production-oriented utilities for real-world engineering environments.
 
 ### Associate Software Engineer — Thynk Tech India Pvt. Ltd.
 
-<div align="center">
+`AI/ML` `LLM` `RAG` `FastAPI` `Predictive Analytics`
 
-<img src="https://img.shields.io/badge/AI%2FML-020617?style=flat-square&logo=scikitlearn&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/LLM-0F172A?style=flat-square&logo=openai&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/RAG-111827?style=flat-square&logo=databricks&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=38BDF8"/>
-
-</div>
-
-* Built software solutions involving Machine Learning and AI-driven workflows.
-* Developed **LLM and RAG-based applications and pipelines**.
-* Designed backend services using Python and FastAPI.
-* Built predictive analytics and forecasting workflows.
-* Performed data preprocessing, feature engineering and model optimization.
+* Built AI/ML-driven software and intelligent workflows.
+* Developed **LLM and RAG applications**.
+* Designed Python and FastAPI backend services.
+* Developed predictive analytics and forecasting workflows.
+* Performed preprocessing, feature engineering and model optimization.
 * Worked with datasets containing **10K+ records**.
-* Evaluated models using RMSE and R².
+* Evaluated ML systems using **RMSE and R²**.
 
 ### Data Science & AI/ML Intern — SkillEcted
 
-* Developed Machine Learning models for classification and regression.
+`Python` `Machine Learning` `Data Science` `Analytics`
+
+* Developed classification and regression models.
+* Built end-to-end Machine Learning pipelines.
 * Performed EDA, preprocessing and feature engineering.
-* Built end-to-end ML workflows from data preparation to evaluation.
-* Applied model optimization techniques.
-* Created analytical visualizations and dashboards.
+* Optimized and evaluated ML models.
+* Developed analytical visualizations and dashboards.
 
 ---
 
 <div align="center">
 
-## <img src="https://cdn.simpleicons.org/langchain/38BDF8" width="24"/> Generative AI & Agentic AI
+## `// AI_SYSTEMS`
 
-<img src="https://cdn.simpleicons.org/openai/38BDF8" width="46" alt="OpenAI"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/huggingface/38BDF8" width="46" alt="Hugging Face"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/langchain/38BDF8" width="46" alt="LangChain"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/ollama/38BDF8" width="46" alt="Ollama"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/databricks/38BDF8" width="46" alt="Databricks"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,kubernetes,aws,postgres,redis" alt="AI engineering technologies"/>
 
 </div>
 
-<br/>
-
 ```text
-                         AI APPLICATION
-                               │
-                               ▼
-                      ┌────────────────┐
-                      │      LLM       │
-                      └───────┬────────┘
-                              │
-                 ┌────────────┼────────────┐
-                 ▼            ▼            ▼
-              PROMPT         RAG         TOOLS
-                              │
-                              ▼
-                       ┌────────────┐
-                       │ RETRIEVAL  │
-                       │  PIPELINE  │
-                       └─────┬──────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   AGENTIC AI    │
-                    │                 │
-                    │ Reasoning       │
-                    │ Tool Calling    │
-                    │ Actions         │
-                    │ Workflows       │
-                    └────────┬────────┘
-                             │
-                             ▼
-                     PRODUCTION AI
+                         USER / APPLICATION
+                                  │
+                                  ▼
+                       ┌────────────────────┐
+                       │    FASTAPI LAYER   │
+                       └─────────┬──────────┘
+                                 │
+                  ┌──────────────┼──────────────┐
+                  │              │              │
+                  ▼              ▼              ▼
+              ML MODEL          LLM            RAG
+                  │              │              │
+                  └──────────────┼──────────────┘
+                                 │
+                                 ▼
+                       ┌────────────────────┐
+                       │     AGENTIC AI     │
+                       ├────────────────────┤
+                       │ Reasoning          │
+                       │ Tool Calling       │
+                       │ Context            │
+                       │ Actions            │
+                       │ Workflow Control   │
+                       └─────────┬──────────┘
+                                 │
+                                 ▼
+                       ┌────────────────────┐
+                       │    PRODUCTION      │
+                       │ Docker • AWS       │
+                       │ APIs • MLOps       │
+                       └────────────────────┘
 ```
 
 <div align="center">
 
-**LLMs** · **RAG** · **Prompt Engineering** · **Local LLMs** · **AI Agents** · **Tool-Based Workflows** · **Intelligent Automation**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1900&pause=500&color=38BDF8&center=true&vCenter=true&width=850&height=35&lines=LLM+%E2%86%92+RAG+%E2%86%92+TOOLS+%E2%86%92+AGENTS+%E2%86%92+ACTIONS;DATA+%E2%86%92+MODEL+%E2%86%92+API+%E2%86%92+DOCKER+%E2%86%92+CLOUD;IDEA+%E2%86%92+ENGINEERING+%E2%86%92+PRODUCTION"/>
 
 </div>
 
@@ -179,155 +217,143 @@ Problem → Data → Intelligence → API → MLOps → Production
 
 <div align="center">
 
-## <img src="https://cdn.simpleicons.org/mlflow/38BDF8" width="24"/> MLOps & AI Deployment
+# `> MASTER_BUILDS`
 
-<img src="https://cdn.simpleicons.org/docker/38BDF8" width="46" alt="Docker"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/kubernetes/38BDF8" width="46" alt="Kubernetes"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/amazonaws/38BDF8" width="46" alt="AWS"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/mlflow/38BDF8" width="46" alt="MLflow"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/githubactions/38BDF8" width="46" alt="GitHub Actions"/>
+### Selected AI systems I have designed and developed
 
 </div>
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <div align="center">
-
-**Experiment → Train → Evaluate → Package → Deploy → Monitor**
-
-</div>
-
-* Model deployment and inference workflows
-* AI API deployment
-* Dockerized AI applications
-* Model artifact management
-* Reproducible environments
-* Backend + model integration
-* Cloud deployment
-* Production AI infrastructure
-* Scalable inference architecture
-
----
-
-<div align="center">
-
-## <img src="https://cdn.simpleicons.org/react/38BDF8" width="24"/> Featured Projects
-
-</div>
 
 ## GramTeach.AI
 
-<div align="center">
+**Generative AI Education Platform**
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,fastapi,postgresql,redis,docker,aws" alt="GramTeach AI technology stack"/>
+<img src="https://skillicons.dev/icons?i=react,fastapi,postgres,redis,docker,aws" alt="GramTeach stack"/>
 
 </div>
 
-### AI-Powered Multilingual Educational Platform
+A multilingual **AI-powered educational platform** designed to generate and deliver intelligent educational content.
 
-A Generative AI-powered educational platform designed to generate and deliver educational content for students across multiple languages.
+**Architecture**
 
 ```text
-React + Vite
-      │
-      ▼
-FastAPI
-      │
-      ├── PostgreSQL
-      ├── Redis
-      ├── Celery
-      ├── Generative AI
-      └── AWS S3
+React / Vite
+     │
+     ▼
+   FastAPI
+     │
+ ┌───┼──────────┐
+ ▼   ▼          ▼
+SQL Redis     GenAI
+     │          │
+   Celery      LLM
+     │          │
+     └────┬─────┘
+          ▼
+        AWS S3
 ```
 
-**Engineering Highlights**
+**Built around**
 
-* Generative AI content generation
-* Multilingual educational workflows
-* FastAPI backend architecture
-* PostgreSQL integration
-* Celery background processing
-* Redis task infrastructure
-* Dockerized services
-* AWS S3 storage
-* Authentication and role-based workflows
+`Generative AI` `LLMs`
+`FastAPI` `PostgreSQL`
+`Celery` `Redis`
+`Docker` `AWS S3`
+`Multilingual AI`
 
----
+</td>
 
-## Generative AI for Drug Molecule Discovery
+<td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/pytorch/38BDF8" width="48" alt="PyTorch"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/python/38BDF8" width="48" alt="Python"/>
+## Generative AI for Drug Discovery
+
+**AI-Driven Molecular Intelligence**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="Drug discovery stack"/>
 
 </div>
 
-### AI-Assisted Molecular Generation & Prediction
+An AI system exploring **molecular generation and property prediction** using Deep Learning and Reinforcement Learning.
 
-An AI-assisted molecular generation and property prediction project combining deep learning and reinforcement learning.
+**Architecture**
 
-**Focus Areas**
+```text
+Molecular Data
+      │
+      ▼
+Deep Learning
+      │
+      ├────► Property Prediction
+      │
+      ▼
+Generative Model
+      │
+      ▼
+Reinforcement
+   Learning
+      │
+      ▼
+Optimized Molecules
+```
 
-* Generative AI
-* Deep Learning
-* Reinforcement Learning
-* Molecular Generation
-* Molecular Property Prediction
-* Stability Prediction
-* Solubility Prediction
-* AI-Assisted Drug Discovery
+**Built around**
+
+`Generative AI` `Deep Learning`
+`Reinforcement Learning`
+`Molecular Generation`
+`Property Prediction`
+`Stability Prediction`
+`Solubility Prediction`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=800&height=38&lines=%3E+Designing...;%3E+Building...;%3E+Testing...;%3E+Optimizing...;%3E+Deploying...;%3E+Next+AI+System+Loading..."/>
+
+</div>
 
 ---
 
 <div align="center">
 
-## <img src="https://cdn.simpleicons.org/python/38BDF8" width="24"/> Technology Stack
+## `// TECH_STACK`
 
-### Languages
+### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" alt="AI ML stack"/>
 
-### AI / ML
+<img src="https://img.shields.io/badge/Pandas-020617?style=flat-square&logo=pandas&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/NumPy-020617?style=flat-square&logo=numpy&logoColor=38BDF8"/>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="Machine learning technologies"/>
+### Generative & Agentic AI
 
-<br/>
+<img src="https://img.shields.io/badge/OpenAI-020617?style=for-the-badge&logo=openai&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-0F172A?style=for-the-badge&logo=huggingface&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=langchain&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Ollama-1E293B?style=for-the-badge&logo=ollama&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/RAG-334155?style=for-the-badge&logo=databricks&logoColor=38BDF8"/>
 
-<img src="https://cdn.simpleicons.org/pandas/38BDF8" width="40" alt="Pandas"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/numpy/38BDF8" width="40" alt="NumPy"/>
+### Backend & Data
 
-### Generative AI
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,postgres,mysql,mongodb,redis" alt="Backend stack"/>
 
-<img src="https://cdn.simpleicons.org/openai/38BDF8" width="44" alt="OpenAI"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/huggingface/38BDF8" width="44" alt="Hugging Face"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/langchain/38BDF8" width="44" alt="LangChain"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/ollama/38BDF8" width="44" alt="Ollama"/>
+### MLOps / Infrastructure
 
-### Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express" alt="Backend technologies"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" alt="Databases"/>
-
-### Cloud & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux" alt="Cloud and infrastructure"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github,githubactions" alt="MLOps stack"/>
 
 ### Development
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma" alt="Development tools"/>
 
 </div>
 
@@ -335,70 +361,35 @@ An AI-assisted molecular generation and property prediction project combining de
 
 <div align="center">
 
-## <img src="https://cdn.simpleicons.org/fastapi/38BDF8" width="24"/> AI System Architecture
+## `// MLOPS_PIPELINE`
+
+<img src="https://skillicons.dev/icons?i=python,docker,kubernetes,aws,githubactions" alt="MLOps pipeline"/>
+
+### `EXPERIMENT → TRAIN → EVALUATE → PACKAGE → DEPLOY → MONITOR`
+
+</div>
 
 ```text
-                         CLIENT
-                           │
-                           ▼
-                     ┌───────────┐
-                     │  FastAPI  │
-                     └─────┬─────┘
-                           │
-              ┌────────────┼────────────┐
-              ▼            ▼            ▼
-            ML            LLM           RAG
-         Pipeline        Engine       Pipeline
-              │            │            │
-              └────────────┼────────────┘
-                           ▼
-                    ┌──────────────┐
-                    │  AGENTIC AI  │
-                    │              │
-                    │ Reasoning    │
-                    │ Tools        │
-                    │ Actions      │
-                    │ Workflows    │
-                    └───────┬──────┘
-                            │
-                            ▼
-                    ┌──────────────┐
-                    │    MLOps     │
-                    │ Docker / AWS │
-                    └──────────────┘
+DATA ──► TRAINING ──► MODEL ──► FASTAPI ──► DOCKER ──► CLOUD
+            ▲                                            │
+            │                                            ▼
+            └──────────── MONITOR ◄── PRODUCTION ◄───────┘
 ```
 
-</div>
+**Engineering focus:** Model Deployment · AI APIs · Containerization · Model Artifacts · Reproducible Environments · Cloud Deployment · Production Inference · Scalable AI Infrastructure
 
 ---
 
 <div align="center">
 
-## <img src="https://cdn.simpleicons.org/aws/38BDF8" width="24"/> Certifications
+## `// CERTIFICATIONS`
 
-| Certification / Training                       |         Focus         |
-| :--------------------------------------------- | :-------------------: |
-| AWS — Generative AI with Large Language Models |  Generative AI / LLM  |
-| Machine Learning & Deep Learning               |        AI / ML        |
-| Data Science with AI/ML                        |      Data Science     |
-| Python Data Analysis                           |     Python / Data     |
-| Data Visualization                             |       Analytics       |
-| Responsive Web Design                          |    Web Development    |
-| Power BI Workshop                              | Business Intelligence |
-
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://cdn.simpleicons.org/openai/38BDF8" width="24"/> Engineering Philosophy
-
-### Build beyond the model.
-
-**Data → Intelligence → Engineering → Deployment → Production → Impact**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=35&lines=Designing+AI+Systems;Engineering+LLM+Applications;Building+RAG+Pipelines;Developing+Agentic+Workflows;Deploying+Production+AI" alt="Engineering animation"/>
+<img src="https://img.shields.io/badge/AWS-Generative%20AI%20with%20LLMs-020617?style=for-the-badge&logo=amazonwebservices&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Deep%20Learning-0F172A?style=for-the-badge&logo=pytorch&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Data%20Science-AI%2FML-111827?style=for-the-badge&logo=python&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-1E293B?style=for-the-badge&logo=pandas&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Data-Visualization-334155?style=for-the-badge&logo=plotly&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Power%20BI-Workshop-475569?style=for-the-badge&logo=powerbi&logoColor=38BDF8"/>
 
 </div>
 
@@ -406,18 +397,45 @@ An AI-assisted molecular generation and property prediction project combining de
 
 <div align="center">
 
-<h2 id="connect">Let's Connect</h2>
+## `> CURRENT_MODE`
 
-**Open to opportunities in AI/ML Engineering, Generative AI, Agentic AI, LLM Engineering, RAG and MLOps.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=500&color=38BDF8&center=true&vCenter=true&width=800&height=45&lines=Building+AI+Systems...;Experimenting+with+Agents...;Engineering+RAG+Pipelines...;Deploying+ML+Applications...;Learning.+Building.+Shipping."/>
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│       CODE. BUILD. EXPERIMENT. SHIP.         │
+│                                              │
+│        AI isn't just the model.              │
+│        The system around it matters.         │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+### `Data → Intelligence → Engineering → Production → Impact`
+
+</div>
+
+---
+
+<div align="center">
+
+## `// CONNECT`
+
+**Interested in building the next generation of intelligent software.**
+
+<img src="https://img.shields.io/badge/AI%2FML%20ENGINEERING-020617?style=for-the-badge&logo=pytorch&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/AGENTIC%20AI-111827?style=for-the-badge&logo=langchain&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/LLM%20%2F%20RAG-1E293B?style=for-the-badge&logo=huggingface&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/MLOPS-334155?style=for-the-badge&logo=docker&logoColor=38BDF8"/>
 
 <br/>
 
-<a href="https://github.com/Sarthak-Nagave"><img src="https://img.shields.io/badge/GitHub-Sarthak--Nagave-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/sarthak-nagave-742110324/"><img src="https://img.shields.io/badge/LinkedIn-Sarthak%20Nagave-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a> <a href="mailto:sarthaknagave@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/></a>
+<a href="https://github.com/Sarthak-Nagave"><img src="https://img.shields.io/badge/GITHUB-SARTHAK%20NAGAVE-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/sarthak-nagave-742110324/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:sarthaknagave@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,50:0F172A,100:0369A1"/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:020617,50:0F172A,100:0369A1&animation=fadeIn" width="100%" alt="Footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=30&lines=AI+%7C+ML+%7C+LLM+%7C+RAG+%7C+AGENTIC+AI+%7C+MLOPS;Engineering+Intelligent+Systems+for+Real-World+Impact"/>
 
 </div>
