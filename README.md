@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Sarthak%20Nagave&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=42&color=0:000428,100:004e92&stroke=38BDF8&strokeWidth=2&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20Developer%20%7C%20Backend%20Systems&descAlignY=64&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Sarthak%20Nagave&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=42&color=0:000428,100:004e92&stroke=38BDF8&strokeWidth=2&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20Agentic%20AI%20%7C%20LLMs%20%7C%20RAG%20%7C%20Backend%20Systems&descAlignY=64&descSize=22"/>
+
 
 </div>
 
