@@ -59,13 +59,19 @@
 AI/ML Engineer with practical experience designing and deploying scalable Machine Learning and Generative AI systems for real-world applications.
 
 Experienced in:
+- AI/ML
+- Generative AI
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Prompt Engineering
 - Deep Learning Architectures
 - FastAPI Backend Systems
 - Predictive Analytics
 - Intelligent Automation
 - AI Infrastructure & Deployment
+- AWS (EC2, S3), Docker, Git/GitHub, Linux
+- Python, SQL
 
 Worked on production-grade AI systems involving enterprise automation, AI-powered educational platforms, backend APIs, forecasting systems, and scalable intelligent applications.
 
@@ -75,7 +81,7 @@ Focused on building performant, production-ready, and scalable AI systems.
 
 # <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"/> Experience
 
-## Design Engineer - Selec Controls Pvt Ltd
+## Design Engineer — Selec Controls Pvt Ltd
 
 - Developing Python-based software tools and automation scripts for R&D workflows.
 - Integrating offline LLM inference into engineering tools for AI-powered fault analysis and parameter recommendations.
